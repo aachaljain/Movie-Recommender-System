@@ -107,15 +107,5 @@ Movie Recommendations
 B.Sc. Information Technology<br>
 Data Science & Analytics Enthusiast
 </p>
-
-<h3>Skills</h3>
-
-<ul>
-    <li>Python</li>
-    <li>SQL</li>
-    <li>Machine Learning</li>
-    <li>Natural Language Processing (NLP)</li>
-    <li>FastAPI</li>
-    <li>Data Analytics</li>
     <li>Data Visualization</li>
 </ul>
